@@ -26,7 +26,7 @@ This project is developed using a modular architecture, where each component is 
 | Web Application | https://github.com/aryaadimas/REPORT | Web-based interface for reporting and request tracking |
 | Mobile Application | https://github.com/Ibrahimkayyis/Report | Mobile application for submitting and tracking reports |
 | Backend / API | https://github.com/alvianainh/service-desk-be | Backend service handling business logic, API, and database operations |
-| Dokumen | https://drive.google.com/drive/folders/1UE6K8Ki-n7tjCL9BMyi76PPb_nPd60_R?usp=sharing | Project Dokumentation |
+| Document | https://drive.google.com/drive/folders/1UE6K8Ki-n7tjCL9BMyi76PPb_nPd60_R?usp=sharing | Project Documentation |
 
 
 # Link Project
