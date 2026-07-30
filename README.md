@@ -23,6 +23,7 @@ This project is developed using a modular architecture, where each component is 
 
 | Platform | Repository | Description |
 |---------|------------|-------------|
+| UI/UX Design | https://www.figma.com/design/JTv3qpjWUFMptoruxw89G2/REPORT?node-id=0-1&t=dpHRKKIv0pkha2Me-1 | UI/UX Design for reporting and request tracking
 | Web Application | https://github.com/aryaadimas/REPORT | Web-based interface for reporting and request tracking |
 | Mobile Application | https://github.com/Ibrahimkayyis/Report | Mobile application for submitting and tracking reports |
 | Backend / API | https://github.com/alvianainh/service-desk-be | Backend service handling business logic, API, and database operations |
